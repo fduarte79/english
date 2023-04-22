@@ -4,7 +4,7 @@
 [nouns](nouns.md), 
 [verbs](verbs.md), 
 [adjectives](adjectives.md), 
-[adverbs]()adverbs.md, 
+[adverbs](adverbs.md), 
 [pronouns](pronouns.md), 
 [prepositions](prepositions.md), 
 [conjunctions](conjuctions.md), 
